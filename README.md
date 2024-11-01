@@ -2,6 +2,9 @@
 
 A powerful Discord Multi Tool with many features for server management, token handling, and automation.
 
+> Note: Tool is provided as .exe file - no Python installation needed! 
+> Due to file size limitations on GitHub, the tool is hosted on Google Drive.
+
 ## Features ⚡
 
 - Token Management (Join, Leave, Spam)
@@ -60,3 +63,4 @@ A powerful Discord Multi Tool with many features for server management, token ha
 
 ## Credits 🏆
 Made with ❤️ by MasterM142
+
